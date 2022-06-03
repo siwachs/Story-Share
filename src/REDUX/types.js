@@ -1,0 +1,33 @@
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+export const REGISTER_REQUEST = "REGISTER_REQUEST";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+export const USER_LIST_REQUEST = "USER_LIST_REQUEST";
+export const USER_LIST_SUCCESS = "USER_LIST_SUCCESS";
+export const USER_LIST_FAIL = "USER_LIST_FAIL";
+
+export const STORIES_REQUEST = "STORIES_REQUEST";
+export const STORIES_SUCCESS = "STORIES_SUCCESS";
+export const STORIES_FAIL = "STORIES_FAIL";
+
+export const POST_REQUEST = "POST_REQUEST";
+export const POST_SUCCESS = "POST_SUCCESS";
+export const POST_FAIL = "POST_FAIL";
+
+export const STORY_REQUEST = "STORY_REQUEST";
+export const STORY_SUCCESS = "STORY_SUCCESS";
+export const STORY_FAIL = "STORY_FAIL";
+
+export const DELETE_REQUEST = "DELETE_REQUEST";
+export const DELETE_SUCCESS = "DELETE_SUCCESS";
+export const DELETE_FAIL = "DELETE_FAIL";
+
+export const EDIT_REQUEST = "EDIT_REQUEST";
+export const EDIT_SUCCESS = "EDIT_SUCCESS";
+export const EDIT_FAIL = "EDIT_FAIL";
+
+export const LOGOUT = "LOGOUT";

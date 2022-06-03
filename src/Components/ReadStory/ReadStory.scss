@@ -1,0 +1,16 @@
+.story{
+    &_image{
+        padding: 0.5rem 0;
+    }
+
+    &_title{
+        padding: 0.5rem 0;
+    }
+
+    &_content{
+        padding: 0;
+        p{
+            font-size: 1.5rem;
+        }
+    }
+}

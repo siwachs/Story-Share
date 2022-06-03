@@ -1,0 +1,32 @@
+.user{
+    margin: 1rem;
+    width: calc(45% - 2rem);
+    min-width: 17.5rem;
+    
+    &_content{
+        display: flex;
+        align-items: center;
+    }
+
+    &_img{
+        border: 0.5px solid black;
+        border-radius: 50%;
+        padding: 1px;
+        margin-right: 0.8rem;
+        width: 5rem;
+        height: 5rem;
+        object-fit: contain;
+    }
+
+    &_info{
+        h4,p,h5{
+            margin: 0;
+            padding: 0;
+        }
+
+        p{
+            font-size: 1.1rem;
+            color: #454545;
+        }
+    }
+}
